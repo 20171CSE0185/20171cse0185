@@ -1,0 +1,12 @@
+</html>
+<head>
+<title> HTML FRAMES </title>
+</head>
+<frameset rows="10%,805,10%">
+<frameset name="top" src="t(1).html"/>
+<frameset name="main" src="/home/6CSE3/Desktop/20171cse0185"/>
+<noframes>
+<body> your browser does suppport frames </body>
+</noframes>
+</frameset>
+</html>
